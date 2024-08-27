@@ -1,0 +1,11 @@
+#root a {
+  border-style: none !important;
+}
+
+#root .navbar-brand {
+  width: fit-content !important;
+}
+
+#root {
+  margin: 1rem;
+}
